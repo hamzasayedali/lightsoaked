@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Grid container>
       <BodyContent />
-      <SideBar />
+      
       </Grid>
       
     </div>
