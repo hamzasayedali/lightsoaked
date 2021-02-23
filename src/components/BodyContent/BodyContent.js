@@ -9,7 +9,7 @@ import sun1 from '../../img/sun1.jpg';
 import sun2 from '../../img/sun2.jpg';
 import sun3 from '../../img/sun3.jpg';
 import sun4 from '../../img/sun4.jpg';
-import sun5 from '../../img/sun5.jpg';
+
 import sun6 from '../../img/sun6.jpg';
 import sun7 from '../../img/sun7.jpg';
 import sun8 from '../../img/sun8.jpg';
@@ -54,7 +54,7 @@ const BodyContent = () => {
         <img className={classes.image} src={sun2} alt={"sun"} />
         <img className={classes.image} src={sun3} alt={"sun"} />
         <img className={classes.image} src={sun4} alt={"sun"} />
-        <img className={classes.image} src={sun5} alt={"sun"} />
+        
         <img className={classes.image} src={sun6} alt={"sun"} />
         <img className={classes.image} src={sun7} alt={"sun"} />
         <img className={classes.image} src={sun8} alt={"sun"} />
